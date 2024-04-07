@@ -1,0 +1,13 @@
+.borrowerpage-container {
+    margin: 20px;
+}
+
+.application-form-link {
+    margin-top: 20px;
+}
+
+.application-status-tracker, .payment-schedule {
+    margin-top: 20px;
+}
+
+/* Add more CSS styles as needed */
